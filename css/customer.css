@@ -13,3 +13,11 @@
 .text-center{
     font-family: 'Sarabun', sans-serif;
 }
+.texthead{
+    font-family: 'Sarabun', sans-serif;
+}
+.underline{
+    width: 120px;
+    height: 4px;
+    background-color: rebeccapurple;
+}
